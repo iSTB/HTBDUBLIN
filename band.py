@@ -98,8 +98,8 @@ class Band(object):
 
     #def get_freq
 
-b  = Band("192.168.0.154", 301)
-b.get_freq(30)
+#b  = Band("192.168.0.154", 301)
+#b.get_freq(30)
 #for d in b.averaged():
 #    print(d)
     
